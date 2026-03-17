@@ -16,8 +16,6 @@ Pricing vehicles correctly is critical for dealerships, resellers, and financial
 * **Libraries:** Pandas, NumPy, Scikit-Learn, Statsmodels, Matplotlib, Seaborn
 * **Modeling:** Multiple Linear Regression (Ordinary Least Squares)
 
-
-
 ## Methodology & Workflow
 I followed a structured data science workflow to ensure reliability and interpretability:
 
