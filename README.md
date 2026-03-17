@@ -3,7 +3,7 @@
 
 This project demonstrates a data-driven approach to vehicle valuation, replacing subjective judgment with an objective statistical model. It bridges the gap between general market intuition and precise, quantifiable business insights.
 
-## 📊 Business Problem
+## Business Problem
 Pricing vehicles correctly is critical for dealerships, resellers, and financial institutions. Underpricing reduces revenue, while overpricing slows sales. This project aims to:
 
 * **Estimate market value** based on observable characteristics.
@@ -18,7 +18,7 @@ Pricing vehicles correctly is critical for dealerships, resellers, and financial
 
 
 
-## 📈 Methodology & Workflow
+## Methodology & Workflow
 I followed a structured data science workflow to ensure reliability and interpretability:
 
 1.  **Data Preparation:** Cleaned and structured a dataset of 1,000 vehicle records, including feature engineering for categorical variables.
@@ -27,7 +27,7 @@ I followed a structured data science workflow to ensure reliability and interpre
 4.  **Validation:** Used a 50/30/20 (Train/Validation/Test) split to ensure the model generalizes to unseen data.
 5.  **Optimization:** Applied statistical variable selection to simplify the model, retaining only the 5 most significant drivers of price.
 
-## 🏆 Key Results & Business Insights
+## Key Results & Business Insights
 The final optimized model explains approximately **88–89%** of price variation ($R^2$).
 
 **Critical Drivers of Price:**
@@ -38,7 +38,7 @@ The final optimized model explains approximately **88–89%** of price variation
 
 
 
-## 🚀 Practical Application
+## Practical Application
 I developed a simplified pricing formula that can be easily integrated into a dealership management system or a mobile appraisal tool:
 
 $$Price = -7906.96 - 128.84(Age) - 0.02(Mileage) + 51.55(HP) - 2.39(CC) + 22.82(Weight)$$
