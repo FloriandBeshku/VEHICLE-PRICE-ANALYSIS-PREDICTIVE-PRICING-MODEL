@@ -40,3 +40,7 @@ The final optimized model explains approximately **88–89%** of price variation
 I developed a simplified pricing formula that can be easily integrated into a dealership management system or a mobile appraisal tool:
 
 $$Price = -7906.96 - 128.84 * (Age) - 0.02 * (Mileage) + 51.55 * (HP) - 2.39 * (CC) + 22.82 * (Weight)$$
+
+To translate the statistical model into a functional decision-support tool, this pricing equation can be deployed in two primary ways:
+Individual Appraisals: A simple input form (web or mobile) where an appraiser enters the five key variables to get an instant, objective market value.
+Batch Inventory Valuation: A script that processes an entire inventory daily, flagging vehicles that are currently over- or under-priced relative to the model's prediction.
