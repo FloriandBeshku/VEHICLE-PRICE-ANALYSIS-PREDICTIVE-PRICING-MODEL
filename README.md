@@ -1,5 +1,5 @@
 # Vehicle Price Analysis & Predictive Pricing Model
-**Data Science Portfolio Project | Floriand Beshku**
+** Floriand Beshku | 2026 **
 
 This project demonstrates a data-driven approach to vehicle valuation, replacing subjective judgment with an objective statistical model. It bridges the gap between general market intuition and precise, quantifiable business insights.
 
