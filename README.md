@@ -26,7 +26,7 @@ I followed a structured data science workflow to ensure reliability and interpre
 5.  **Optimization:** Applied statistical variable selection to simplify the model, retaining only the 5 most significant drivers of price.
 
 ## Key Results & Business Insights
-The final optimized model explains approximately **88–89%** of price variation ($R^2$).
+The final optimized model explains approximately **75–85%** of price variation ($R^2$).
 
 **Critical Drivers of Price:**
 * **Age:** Each additional month of age reduces vehicle value by approximately **$128.84**.
