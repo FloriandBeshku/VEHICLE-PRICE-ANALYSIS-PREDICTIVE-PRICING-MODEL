@@ -10,7 +10,7 @@ Pricing vehicles correctly is critical for dealerships, resellers, and financial
 * **Quantify depreciation** to understand exactly how much value is lost per month or per mile.
 * **Support decision-making** for lenders, insurers, and fleet managers.
 
-## 🛠️ Technical Stack
+## Technical Stack
 * **Language:** Python
 * **Environment:** Anaconda / Jupyter Notebook
 * **Libraries:** Pandas, NumPy, Scikit-Learn, Statsmodels, Matplotlib, Seaborn
