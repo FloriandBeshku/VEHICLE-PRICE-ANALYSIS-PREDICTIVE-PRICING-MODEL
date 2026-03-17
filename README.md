@@ -39,4 +39,4 @@ The final optimized model explains approximately **88–89%** of price variation
 ## Practical Application
 I developed a simplified pricing formula that can be easily integrated into a dealership management system or a mobile appraisal tool:
 
-$$Price = -7906.96 - 128.84(Age) - 0.02(Mileage) + 51.55(HP) - 2.39(CC) + 22.82(Weight)$$
+$$Price = -7906.96 - 128.84 * (Age) - 0.02 * (Mileage) + 51.55 * (HP) - 2.39 * (CC) + 22.82 * (Weight)$$
